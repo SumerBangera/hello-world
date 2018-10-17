@@ -1,2 +1,3 @@
 # hello-world
-Initializing the GitHub account
+
+This is my first GitHub submission.
